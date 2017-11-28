@@ -1,0 +1,119 @@
+1.find sum of 2 element in array=X;--o(n^2)
+
+2.find sum of 2 element in array=X;--O(nlogn)
+
+3.if array is already sorted then find sum=X;---O(n);
+
+4.sum of two element in array exist or not in same array-O(n^3);
+
+5.sum of two element in array exist or not in same array-O(n^2)---open problem
+
+6.find max diff of two element-O(n^2)
+
+7.find max diff of two element-O(n)
+
+8.find min diff of two element-O(n^2)
+
+9.find min diff of two element-O(nlogn)
+
+10.max sum of subsequence---O(n^3)
+
+11.max sum of subsequence---O(n^2)
+
+12.max sum of subsequence---O(n)
+
+12_1.2nd method max sum of subsequence---O(n)
+
+13.find maximum diff of two element i<j---O(n^2) 
+
+14.find maximum diff of two element i<j---O(n)
+
+15.create a link list add in begg,after the location,at the end,delete the given element,and delete position element
+
+16.in stack push and pop operation
+
+17.find min element in next location---O(n^2)
+
+18.find min element in next location---O(n)
+
+19.find each min in k lenght segment of array---O(n^2)
+
+20.find each min in k lenght segment of array---O(n)
+
+21.find the any element between n/4 to 3n/4.
+
+22.find maximum diff of two element j>i+l---O(n)
+
+23.find maximum diff of two element j=i+l---O(n)
+
+24.find maximum diff of two element j<i+l---O(n)
+
+25.max sum of subsequence of array =l l=given length---O(n)
+
+26.max sum of subsequence of array >=l ---O(n)
+
+27.max sum of subsequence of array <l---O(n)
+
+28.partition of array no of 1's in left=no of 0's in right--O(n)
+
+29.tree traversal preorder,postorder,inorder and levelorder traversal----O(n)
+
+30.given inorder and preorder then create a tree and find postorder
+
+31.given inorder and postorder then create a tree and find pretorder
+
+32.given n number ,each one can remain single or can be paired up with some other friend.--O(n)
+f(n)=f(n-1)+n-1*f(n-2);
+
+33.find longest increasing sub sequence in given array--
+cond-(arr[j]<arr[i]&& lis[j]+1>lis[i])
+
+34.given two string find maximum longest common subsquence.
+
+35.find next right node of a given key.
+	level order traversal
+36.binary search tree insertion deletion searching.
+
+37.AVL tree insertion deletion ,searching.
+
+38.red black tree insertion,deletion,searching.
+
+39.find rank in O(log n) through avl tree,prefixsum,range, mingap,maxgap.
+
+40.greedy algo knapsack;
+
+41.job sequencing greedy
+
+42.coin exchange problem   space O(n*m)
+
+43.coin exchange problem---space O(n)
+
+44.0/1 knap sack
+
+45.0/1 knap sack space-O(n)
+
+46.sum of subset problem-
+
+47.find min number of multiplication of matrix multiplication--recursion
+ 
+48.find min number of multiplication required in matrix multipilcation--dynamic
+
+49.find minimum number of operation or edit required to convert one string to another string.insert,delete,modify;
+
+50.find binomial coefficient C(i,j);
+	c(i,j)=c(i-1,j-1)+c(i-1,j);
+51.longest palindrome subsequence
+
+52.longest palindrome subsequence effeicient way--space O(3n);
+
+53.longest common subsequence with effeiceint space--space O(2n);	
+
+54.graph representation through adjcency list.
+
+55.breadth first search;
+
+56.depth first search;
+
+57.single source shorest path;
+
+58.minimum spaning tree;
