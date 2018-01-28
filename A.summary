@@ -117,3 +117,5 @@ cond-(arr[j]<arr[i]&& lis[j]+1>lis[i])
 57.single source shorest path;
 
 58.minimum spaning tree;
+
+txt.java: is the code of palindrome, which is the find substring also find the length of substring.
